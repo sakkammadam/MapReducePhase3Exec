@@ -1,0 +1,833 @@
+Kicking off MapReduce operations...
+Operation: input
+There are 17 future objects in load_dir_files...
+The file /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Winter'sTale.txt has 4347 lines.
+Properties for /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Winter'sTale.txt
+Number of lines: 4347
+Number of lines per partition: 2000
+NUmber of partitions per file: 3
+Operation: input
+The file /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/PericlesPrinceOfTyre.txt has 3431 lines.
+Properties for /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/PericlesPrinceOfTyre.txt
+Number of lines: 3431
+Number of lines per partition: 2000
+NUmber of partitions per file: 2
+Operation: input
+Operation: input
+Operation: input
+Operation: input
+Operation: input
+Operation: input
+Operation: input
+Operation: input
+Operation: input
+Operation: input
+The file /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerchantOfVenice.txt has 3555 lines.
+Properties for /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerchantOfVenice.txt
+Number of lines: 3555
+Number of lines per partition: 2000
+NUmber of partitions per file: 2
+Operation: input
+Operation: input
+Operation: input
+Operation: input
+Operation: input
+The file /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheComedyOfErrors.txt has 2678 lines.
+Properties for /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheComedyOfErrors.txt
+Number of lines: 2678
+Number of lines per partition: 2000
+NUmber of partitions per file: 2
+The file /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwelthNight.txt has 3717 lines.
+Properties for /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwelthNight.txt
+Number of lines: 3717
+Number of lines per partition: 2000
+NUmber of partitions per file: 2
+The file /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwoGentlemenOfVerona.txt has 3316 lines.
+Properties for /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwoGentlemenOfVerona.txt
+Number of lines: 3316
+Number of lines per partition: 2000
+NUmber of partitions per file: 2
+The file /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerryWivesOfWindsor.txt has 4046 lines.
+Properties for /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerryWivesOfWindsor.txt
+Number of lines: 4046
+Number of lines per partition: 2000
+NUmber of partitions per file: 3
+The file /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AsYouLIkeIte.txt has 3659 lines.
+Properties for /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AsYouLIkeIte.txt
+Number of lines: 3659
+Number of lines per partition: 2000
+NUmber of partitions per file: 2
+The file /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Love'sLabourLost.txt has 4145 lines.
+Properties for /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Love'sLabourLost.txt
+Number of lines: 4145
+Number of lines per partition: 2000
+NUmber of partitions per file: 3
+The file /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AMidSummerNightsDream.txt has 2932 lines.
+Properties for /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AMidSummerNightsDream.txt
+Number of lines: 2932
+Number of lines per partition: 2000
+NUmber of partitions per file: 2
+The file /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MuchAdoAboutNothing.txt has 3786 lines.
+Properties for /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MuchAdoAboutNothing.txt
+Number of lines: 3786
+Number of lines per partition: 2000
+NUmber of partitions per file: 2
+The file /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TamingOfTheShrew.txt has 3854 lines.
+Properties for /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TamingOfTheShrew.txt
+Number of lines: 3854
+Number of lines per partition: 2000
+NUmber of partitions per file: 2
+The file /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Cymbeline.txt has 4846 lines.
+Properties for /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Cymbeline.txt
+Number of lines: 4846
+Number of lines per partition: 2000
+NUmber of partitions per file: 3
+The file /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTempest.txt has 3160 lines.
+Properties for /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTempest.txt
+Number of lines: 3160
+Number of lines per partition: 2000
+NUmber of partitions per file: 2
+The file /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MeasureForMeasure.txt has 4037 lines.
+Properties for /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MeasureForMeasure.txt
+Number of lines: 4037
+Number of lines per partition: 2000
+NUmber of partitions per file: 3
+The file /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/All'sWellThatEndsWell.txt has 4046 lines.
+Properties for /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/All'sWellThatEndsWell.txt
+Number of lines: 4046
+Number of lines per partition: 2000
+NUmber of partitions per file: 3
+The file /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TroilusAndCressida .txt has 5047 lines.
+Properties for /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TroilusAndCressida .txt
+Number of lines: 5047
+Number of lines per partition: 2000
+NUmber of partitions per file: 3
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Love'sLabourLost.txt
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Love'sLabourLost.txt
+Working on partition#0
+Creating Mapper#0
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Love'sLabourLost.txt
+Working on partition#1
+Creating Mapper#1
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Love'sLabourLost.txt
+Working on partition#2
+Creating Mapper#2
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Winter'sTale.txt
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Winter'sTale.txt
+Working on partition#0
+Creating Mapper#0
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Winter'sTale.txt
+Working on partition#1
+Creating Mapper#1
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Winter'sTale.txt
+Working on partition#2
+Creating Mapper#2
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerchantOfVenice.txt
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerchantOfVenice.txt
+Working on partition#0
+Creating Mapper#0
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerchantOfVenice.txt
+Working on partition#1
+Creating Mapper#1
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwoGentlemenOfVerona.txt
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwoGentlemenOfVerona.txt
+Working on partition#0
+Creating Mapper#0
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwoGentlemenOfVerona.txt
+Working on partition#1
+Creating Mapper#1
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheComedyOfErrors.txt
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheComedyOfErrors.txt
+Working on partition#0
+Creating Mapper#0
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheComedyOfErrors.txt
+Working on partition#1
+Creating Mapper#1
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MeasureForMeasure.txt
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MeasureForMeasure.txt
+Working on partition#0
+Creating Mapper#0
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MeasureForMeasure.txt
+Working on partition#1
+Creating Mapper#1
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MeasureForMeasure.txt
+Working on partition#2
+Creating Mapper#2
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MuchAdoAboutNothing.txt
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MuchAdoAboutNothing.txt
+Working on partition#0
+Creating Mapper#0
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MuchAdoAboutNothing.txt
+Working on partition#1
+Creating Mapper#1
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/All'sWellThatEndsWell.txt
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/All'sWellThatEndsWell.txt
+Working on partition#0
+Creating Mapper#0
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/All'sWellThatEndsWell.txt
+Working on partition#1
+Creating Mapper#1
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/All'sWellThatEndsWell.txt
+Working on partition#2
+Creating Mapper#2
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AMidSummerNightsDream.txt
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AMidSummerNightsDream.txt
+Working on partition#0
+Creating Mapper#0
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AMidSummerNightsDream.txt
+Working on partition#1
+Creating Mapper#1
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TamingOfTheShrew.txt
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TamingOfTheShrew.txt
+Working on partition#0
+Creating Mapper#0
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TamingOfTheShrew.txt
+Working on partition#1
+Creating Mapper#1
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AsYouLIkeIte.txt
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AsYouLIkeIte.txt
+Working on partition#0
+Creating Mapper#0
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AsYouLIkeIte.txt
+Working on partition#1
+Creating Mapper#1
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Cymbeline.txt
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Cymbeline.txt
+Working on partition#0
+Creating Mapper#0
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Cymbeline.txt
+Working on partition#1
+Creating Mapper#1
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Cymbeline.txt
+Working on partition#2
+Creating Mapper#2
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/PericlesPrinceOfTyre.txt
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/PericlesPrinceOfTyre.txt
+Working on partition#0
+Creating Mapper#0
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/PericlesPrinceOfTyre.txt
+Working on partition#1
+Creating Mapper#1
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerryWivesOfWindsor.txt
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerryWivesOfWindsor.txt
+Working on partition#0
+Creating Mapper#0
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerryWivesOfWindsor.txt
+Working on partition#1
+Creating Mapper#1
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerryWivesOfWindsor.txt
+Working on partition#2
+Creating Mapper#2
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTempest.txt
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTempest.txt
+Working on partition#0
+Creating Mapper#0
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTempest.txt
+Working on partition#1
+Creating Mapper#1
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwelthNight.txt
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwelthNight.txt
+Working on partition#0
+Creating Mapper#0
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwelthNight.txt
+Working on partition#1
+Creating Mapper#1
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TroilusAndCressida .txt
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TroilusAndCressida .txt
+Working on partition#0
+Creating Mapper#0
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TroilusAndCressida .txt
+Working on partition#1
+Creating Mapper#1
+Operating on file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TroilusAndCressida .txt
+Working on partition#2
+Creating Mapper#2
+There are 41 mappers
+Mapping partition#1 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Love'sLabourLost.txt
+There are 41 future objects in mapper_data vector....
+Mapping partition#0 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Winter'sTale.txt
+Mapping partition#0 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerchantOfVenice.txt
+Mapping partition#0 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheComedyOfErrors.txt
+Mapping partition#0 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Love'sLabourLost.txt
+Mapping partition#2 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Love'sLabourLost.txt
+Mapping partition#1 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheComedyOfErrors.txt
+Mapping partition#1 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwoGentlemenOfVerona.txt
+Mapping partition#2 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Winter'sTale.txt
+Mapping partition#1 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Winter'sTale.txt
+Mapping partition#1 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerchantOfVenice.txt
+Mapping partition#1 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MeasureForMeasure.txt
+Mapping partition#0 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MeasureForMeasure.txt
+Mapping partition#0 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwoGentlemenOfVerona.txt
+Mapping partition#2 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MeasureForMeasure.txt
+Mapping partition#0 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MuchAdoAboutNothing.txt
+Mapping partition#0 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/All'sWellThatEndsWell.txt
+Mapping partition#1 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/All'sWellThatEndsWell.txt
+Mapping partition#2 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/All'sWellThatEndsWell.txt
+Mapping partition#0 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AMidSummerNightsDream.txt
+Mapping partition#1 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AMidSummerNightsDream.txt
+Mapping partition#0 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TamingOfTheShrew.txt
+Mapping partition#1 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TamingOfTheShrew.txt
+Mapping partition#0 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AsYouLIkeIte.txt
+Mapping partition#1 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AsYouLIkeIte.txt
+Mapping partition#0 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Cymbeline.txt
+Mapping partition#1 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Cymbeline.txt
+Mapping partition#2 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Cymbeline.txt
+Mapping partition#0 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/PericlesPrinceOfTyre.txt
+Mapping partition#1 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/PericlesPrinceOfTyre.txt
+Mapping partition#0 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerryWivesOfWindsor.txt
+Mapping partition#1 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerryWivesOfWindsor.txt
+Mapping partition#2 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerryWivesOfWindsor.txt
+Mapping partition#0 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTempest.txt
+Mapping partition#1 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTempest.txt
+Mapping partition#0 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwelthNight.txt
+Mapping partition#1 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwelthNight.txt
+Mapping partition#0 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TroilusAndCressida .txt
+Mapping partition#2 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TroilusAndCressida .txt
+Mapping partition#1 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TroilusAndCressida .txt
+Mapping partition#1 data from: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MuchAdoAboutNothing.txt
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Love'sLabourLost.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Love'sLabourLost.txt/
+Created the mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Love'sLabourLost.txt/
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Original file count 17
+Current mapper count 1
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Love'sLabourLost.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Love'sLabourLost.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Love'sLabourLost.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Winter'sTale.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Winter'sTale.txt/
+Created the mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Winter'sTale.txt/
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Winter'sTale.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Winter'sTale.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Winter'sTale.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Winter'sTale.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Winter'sTale.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Winter'sTale.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerchantOfVenice.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheMerchantOfVenice.txt/
+Created the mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheMerchantOfVenice.txt/
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Love'sLabourLost.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Love'sLabourLost.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Love'sLabourLost.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerchantOfVenice.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheMerchantOfVenice.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheMerchantOfVenice.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwoGentlemenOfVerona.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTwoGentlemenOfVerona.txt/
+Created the mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTwoGentlemenOfVerona.txt/
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwoGentlemenOfVerona.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTwoGentlemenOfVerona.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTwoGentlemenOfVerona.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheComedyOfErrors.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheComedyOfErrors.txt/
+Created the mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheComedyOfErrors.txt/
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MeasureForMeasure.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/MeasureForMeasure.txt/
+Created the mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/MeasureForMeasure.txt/
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MeasureForMeasure.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/MeasureForMeasure.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/MeasureForMeasure.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MeasureForMeasure.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/MeasureForMeasure.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/MeasureForMeasure.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MuchAdoAboutNothing.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/MuchAdoAboutNothing.txt/
+Created the mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/MuchAdoAboutNothing.txt/
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/MuchAdoAboutNothing.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/MuchAdoAboutNothing.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/MuchAdoAboutNothing.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/All'sWellThatEndsWell.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/All'sWellThatEndsWell.txt/
+Created the mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/All'sWellThatEndsWell.txt/
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/All'sWellThatEndsWell.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/All'sWellThatEndsWell.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/All'sWellThatEndsWell.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/All'sWellThatEndsWell.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/All'sWellThatEndsWell.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/All'sWellThatEndsWell.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AMidSummerNightsDream.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/AMidSummerNightsDream.txt/
+Created the mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/AMidSummerNightsDream.txt/
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AMidSummerNightsDream.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/AMidSummerNightsDream.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/AMidSummerNightsDream.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TamingOfTheShrew.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TamingOfTheShrew.txt/
+Created the mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TamingOfTheShrew.txt/
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TamingOfTheShrew.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TamingOfTheShrew.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TamingOfTheShrew.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AsYouLIkeIte.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/AsYouLIkeIte.txt/
+Created the mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/AsYouLIkeIte.txt/
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/AsYouLIkeIte.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/AsYouLIkeIte.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/AsYouLIkeIte.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Cymbeline.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Cymbeline.txt/
+Created the mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Cymbeline.txt/
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Cymbeline.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Cymbeline.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Cymbeline.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/Cymbeline.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Cymbeline.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Cymbeline.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/PericlesPrinceOfTyre.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/PericlesPrinceOfTyre.txt/
+Created the mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/PericlesPrinceOfTyre.txt/
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/PericlesPrinceOfTyre.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/PericlesPrinceOfTyre.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/PericlesPrinceOfTyre.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerryWivesOfWindsor.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheMerryWivesOfWindsor.txt/
+Created the mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheMerryWivesOfWindsor.txt/
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerryWivesOfWindsor.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheMerryWivesOfWindsor.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheMerryWivesOfWindsor.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheMerryWivesOfWindsor.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheMerryWivesOfWindsor.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheMerryWivesOfWindsor.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTempest.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTempest.txt/
+Created the mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTempest.txt/
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTempest.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTempest.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTempest.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwelthNight.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTwelthNight.txt/
+Created the mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTwelthNight.txt/
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheTwelthNight.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTwelthNight.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTwelthNight.txt/ already exists! 
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TroilusAndCressida .txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TroilusAndCressida .txt/
+Created the mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TroilusAndCressida .txt/
+All mapper output has been written to this root directory - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/
+The individual temp_mapper folders are: 
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Love'sLabourLost.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Winter'sTale.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheMerchantOfVenice.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTwoGentlemenOfVerona.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheComedyOfErrors.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/MeasureForMeasure.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/MuchAdoAboutNothing.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/All'sWellThatEndsWell.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/AMidSummerNightsDream.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TamingOfTheShrew.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/AsYouLIkeIte.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Cymbeline.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/PericlesPrinceOfTyre.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheMerryWivesOfWindsor.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTempest.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTwelthNight.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TroilusAndCressida .txt
+Proceeding to create Shuffler objects to operate against temp_mapper sub-folders...
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Love'sLabourLost.txt/Love'sLabourLost.txt.0
+There are 17 future objects in shuffler_data vector....
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Love'sLabourLost.txt/Love'sLabourLost.txt.2
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Love'sLabourLost.txt/Love'sLabourLost.txt.1
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Winter'sTale.txt/Winter'sTale.txt.1
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TroilusAndCressida .txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TroilusAndCressida .txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TroilusAndCressida .txt/ already exists! 
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Winter'sTale.txt/Winter'sTale.txt.0
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Winter'sTale.txt/Winter'sTale.txt.2
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/MeasureForMeasure.txt/MeasureForMeasure.txt.1
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/MeasureForMeasure.txt/MeasureForMeasure.txt.0
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/MeasureForMeasure.txt/MeasureForMeasure.txt.2
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TroilusAndCressida .txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TroilusAndCressida .txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TroilusAndCressida .txt/ already exists! 
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/AMidSummerNightsDream.txt/AMidSummerNightsDream.txt.1
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/AMidSummerNightsDream.txt/AMidSummerNightsDream.txt.0
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TamingOfTheShrew.txt/TamingOfTheShrew.txt.0
+Operation: mapper
+Proceeding to write Mapper data output to file system....
+Operating on Mapper output from /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/TheComedyOfErrors.txt
+Originating directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/
+Creating a temp directory to host mapper output: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheComedyOfErrors.txt/
+The mapper directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheComedyOfErrors.txt/ already exists! 
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TamingOfTheShrew.txt/TamingOfTheShrew.txt.1
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/PericlesPrinceOfTyre.txt/PericlesPrinceOfTyre.txt.1
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/PericlesPrinceOfTyre.txt/PericlesPrinceOfTyre.txt.0
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheMerryWivesOfWindsor.txt/TheMerryWivesOfWindsor.txt.0
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheMerryWivesOfWindsor.txt/TheMerryWivesOfWindsor.txt.2
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheMerryWivesOfWindsor.txt/TheMerryWivesOfWindsor.txt.1
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TroilusAndCressida .txt/TroilusAndCressida .txt.2
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TroilusAndCressida .txt/TroilusAndCressida .txt.0
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TroilusAndCressida .txt/TroilusAndCressida .txt.1
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTwelthNight.txt/TheTwelthNight.txt.1
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTwelthNight.txt/TheTwelthNight.txt.0
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTempest.txt/TheTempest.txt.0
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTempest.txt/TheTempest.txt.1
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Cymbeline.txt/Cymbeline.txt.2
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Cymbeline.txt/Cymbeline.txt.0
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/Cymbeline.txt/Cymbeline.txt.1
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/AsYouLIkeIte.txt/AsYouLIkeIte.txt.1
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/AsYouLIkeIte.txt/AsYouLIkeIte.txt.0
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/All'sWellThatEndsWell.txt/All'sWellThatEndsWell.txt.2
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/All'sWellThatEndsWell.txt/All'sWellThatEndsWell.txt.1
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/All'sWellThatEndsWell.txt/All'sWellThatEndsWell.txt.0
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/MuchAdoAboutNothing.txt/MuchAdoAboutNothing.txt.1
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/MuchAdoAboutNothing.txt/MuchAdoAboutNothing.txt.0
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTwoGentlemenOfVerona.txt/TheTwoGentlemenOfVerona.txt.1
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheTwoGentlemenOfVerona.txt/TheTwoGentlemenOfVerona.txt.0
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheMerchantOfVenice.txt/TheMerchantOfVenice.txt.1
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheMerchantOfVenice.txt/TheMerchantOfVenice.txt.0
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheComedyOfErrors.txt/TheComedyOfErrors.txt.0
+Shuffling file - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_mapper/TheComedyOfErrors.txt/TheComedyOfErrors.txt.1
+Operation: shuffler
+Proceeding to write Shuffler data output to file system....
+Created the shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Winter'sTale.txt/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Winter'sTale.txt/Winter'sTale.txt.1
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Winter'sTale.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Winter'sTale.txt/Winter'sTale.txt.0
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Winter'sTale.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Winter'sTale.txt/Winter'sTale.txt.2
+Operation: shuffler
+Proceeding to write Shuffler data output to file system....
+Created the shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Love'sLabourLost.txt/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Love'sLabourLost.txt/Love'sLabourLost.txt.0
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Love'sLabourLost.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Love'sLabourLost.txt/Love'sLabourLost.txt.2
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Love'sLabourLost.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Love'sLabourLost.txt/Love'sLabourLost.txt.1
+Operation: shuffler
+Proceeding to write Shuffler data output to file system....
+Created the shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTwoGentlemenOfVerona.txt/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTwoGentlemenOfVerona.txt/TheTwoGentlemenOfVerona.txt.1
+Current shuffler count 3
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTwoGentlemenOfVerona.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTwoGentlemenOfVerona.txt/TheTwoGentlemenOfVerona.txt.0
+Operation: shuffler
+Proceeding to write Shuffler data output to file system....
+Created the shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheMerchantOfVenice.txt/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheMerchantOfVenice.txt/TheMerchantOfVenice.txt.1
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheMerchantOfVenice.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheMerchantOfVenice.txt/TheMerchantOfVenice.txt.0
+Operation: shuffler
+Proceeding to write Shuffler data output to file system....
+Created the shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheComedyOfErrors.txt/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheComedyOfErrors.txt/TheComedyOfErrors.txt.0
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheComedyOfErrors.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheComedyOfErrors.txt/TheComedyOfErrors.txt.1
+Operation: shuffler
+Proceeding to write Shuffler data output to file system....
+Created the shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/MeasureForMeasure.txt/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/MeasureForMeasure.txt/MeasureForMeasure.txt.1
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/MeasureForMeasure.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/MeasureForMeasure.txt/MeasureForMeasure.txt.0
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/MeasureForMeasure.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/MeasureForMeasure.txt/MeasureForMeasure.txt.2
+Operation: shuffler
+Proceeding to write Shuffler data output to file system....
+Created the shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/MuchAdoAboutNothing.txt/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/MuchAdoAboutNothing.txt/MuchAdoAboutNothing.txt.1
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/MuchAdoAboutNothing.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/MuchAdoAboutNothing.txt/MuchAdoAboutNothing.txt.0
+Operation: shuffler
+Proceeding to write Shuffler data output to file system....
+Created the shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/All'sWellThatEndsWell.txt/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/All'sWellThatEndsWell.txt/All'sWellThatEndsWell.txt.2
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/All'sWellThatEndsWell.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/All'sWellThatEndsWell.txt/All'sWellThatEndsWell.txt.1
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/All'sWellThatEndsWell.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/All'sWellThatEndsWell.txt/All'sWellThatEndsWell.txt.0
+Operation: shuffler
+Proceeding to write Shuffler data output to file system....
+Created the shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/AMidSummerNightsDream.txt/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/AMidSummerNightsDream.txt/AMidSummerNightsDream.txt.1
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/AMidSummerNightsDream.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/AMidSummerNightsDream.txt/AMidSummerNightsDream.txt.0
+Operation: shuffler
+Proceeding to write Shuffler data output to file system....
+Created the shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TamingOfTheShrew.txt/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TamingOfTheShrew.txt/TamingOfTheShrew.txt.0
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TamingOfTheShrew.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TamingOfTheShrew.txt/TamingOfTheShrew.txt.1
+Operation: shuffler
+Proceeding to write Shuffler data output to file system....
+Created the shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/AsYouLIkeIte.txt/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/AsYouLIkeIte.txt/AsYouLIkeIte.txt.1
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/AsYouLIkeIte.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/AsYouLIkeIte.txt/AsYouLIkeIte.txt.0
+Operation: shuffler
+Proceeding to write Shuffler data output to file system....
+Created the shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Cymbeline.txt/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Cymbeline.txt/Cymbeline.txt.2
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Cymbeline.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Cymbeline.txt/Cymbeline.txt.0
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Cymbeline.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Cymbeline.txt/Cymbeline.txt.1
+Operation: shuffler
+Proceeding to write Shuffler data output to file system....
+Created the shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/PericlesPrinceOfTyre.txt/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/PericlesPrinceOfTyre.txt/PericlesPrinceOfTyre.txt.1
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/PericlesPrinceOfTyre.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/PericlesPrinceOfTyre.txt/PericlesPrinceOfTyre.txt.0
+Operation: shuffler
+Proceeding to write Shuffler data output to file system....
+Created the shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheMerryWivesOfWindsor.txt/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheMerryWivesOfWindsor.txt/TheMerryWivesOfWindsor.txt.0
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheMerryWivesOfWindsor.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheMerryWivesOfWindsor.txt/TheMerryWivesOfWindsor.txt.2
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheMerryWivesOfWindsor.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheMerryWivesOfWindsor.txt/TheMerryWivesOfWindsor.txt.1
+Operation: shuffler
+Proceeding to write Shuffler data output to file system....
+Created the shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTempest.txt/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTempest.txt/TheTempest.txt.0
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTempest.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTempest.txt/TheTempest.txt.1
+Operation: shuffler
+Proceeding to write Shuffler data output to file system....
+Created the shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTwelthNight.txt/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTwelthNight.txt/TheTwelthNight.txt.1
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTwelthNight.txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTwelthNight.txt/TheTwelthNight.txt.0
+Operation: shuffler
+Proceeding to write Shuffler data output to file system....
+Created the shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TroilusAndCressida .txt/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TroilusAndCressida .txt/TroilusAndCressida .txt.2
+Files dont exist: 2
+Files dont exist: 2
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TroilusAndCressida .txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TroilusAndCressida .txt/TroilusAndCressida .txt.0
+Files dont exist: 2
+Files dont exist: 1
+Files dont exist: 1
+Files dont exist: 1
+Files dont exist: 1
+Files dont exist: 1
+Files dont exist: 1
+Files dont exist: 1
+The shuffler directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TroilusAndCressida .txt/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TroilusAndCressida .txt/TroilusAndCressida .txt.1
+Files dont exist: 1
+Files dont exist: 0
+All Shuffler output has been written to this root directory - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler
+The individual temp_shuffler folders are: 
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Love'sLabourLost.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Winter'sTale.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheMerchantOfVenice.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTwoGentlemenOfVerona.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheComedyOfErrors.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/MeasureForMeasure.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/MuchAdoAboutNothing.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/All'sWellThatEndsWell.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/AMidSummerNightsDream.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TamingOfTheShrew.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/AsYouLIkeIte.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Cymbeline.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/PericlesPrinceOfTyre.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheMerryWivesOfWindsor.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTempest.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTwelthNight.txt
+/home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TroilusAndCressida .txt
+Proceeding to create Reducer objects to operate against temp_shuffler sub-folders...
+Reducing directory path - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Love'sLabourLost.txt
+There are 17 future objects in reducer vector....
+Reducing directory path - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheMerchantOfVenice.txt
+Reducing directory path - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTwoGentlemenOfVerona.txt
+Reducing directory path - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/AMidSummerNightsDream.txt
+Reducing directory path - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TamingOfTheShrew.txt
+Reducing directory path - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/AsYouLIkeIte.txt
+Reducing directory path - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Cymbeline.txt
+Reducing directory path - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/PericlesPrinceOfTyre.txt
+Reducing directory path - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheMerryWivesOfWindsor.txt
+Reducing directory path - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTempest.txt
+Reducing directory path - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheComedyOfErrors.txt
+Reducing directory path - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/MeasureForMeasure.txt
+Reducing directory path - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/MuchAdoAboutNothing.txt
+Reducing directory path - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/Winter'sTale.txt
+Reducing directory path - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/All'sWellThatEndsWell.txt
+Reducing directory path - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TheTwelthNight.txt
+Reducing directory path - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/temp_shuffler/TroilusAndCressida .txt
+Operation: reducer
+Proceeding to write reducer data output to file system....
+Created the reducer directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/Love'sLabourLost.txt
+Operation: reducer
+Proceeding to write reducer data output to file system....
+The reducer directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/Winter'sTale.txt
+Operation: reducer
+Proceeding to write reducer data output to file system....
+The reducer directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/TheMerchantOfVenice.txt
+Operation: reducer
+Proceeding to write reducer data output to file system....
+The reducer directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/TheTwoGentlemenOfVerona.txt
+Operation: reducer
+Proceeding to write reducer data output to file system....
+The reducer directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/TheComedyOfErrors.txt
+Operation: reducer
+Proceeding to write reducer data output to file system....
+The reducer directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/MeasureForMeasure.txt
+Operation: reducer
+Proceeding to write reducer data output to file system....
+The reducer directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/MuchAdoAboutNothing.txt
+Operation: reducer
+Proceeding to write reducer data output to file system....
+The reducer directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/All'sWellThatEndsWell.txt
+Operation: reducer
+Proceeding to write reducer data output to file system....
+The reducer directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/AMidSummerNightsDream.txt
+Operation: reducer
+Proceeding to write reducer data output to file system....
+The reducer directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/TamingOfTheShrew.txt
+Operation: reducer
+Proceeding to write reducer data output to file system....
+The reducer directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/AsYouLIkeIte.txt
+Operation: reducer
+Proceeding to write reducer data output to file system....
+The reducer directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/Cymbeline.txt
+Operation: reducer
+Proceeding to write reducer data output to file system....
+The reducer directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/PericlesPrinceOfTyre.txt
+Operation: reducer
+Proceeding to write reducer data output to file system....
+The reducer directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/TheMerryWivesOfWindsor.txt
+Operation: reducer
+Proceeding to write reducer data output to file system....
+The reducer directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/TheTempest.txt
+Operation: reducer
+Proceeding to write reducer data output to file system....
+The reducer directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/TheTwelthNight.txt
+Operation: reducer
+Proceeding to write reducer data output to file system....
+The reducer directory: /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/ already exists! 
+Proceeding to create /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output/TroilusAndCressida .txt
+All final output has been written to this root directory - /home/sakkammadam/Documents/syr/cse687/projects/input_files/phase3_eval/final_output
